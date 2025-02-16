@@ -6,7 +6,7 @@ app = Flask(__name__)
 app.secret_key = "securekey2025"  # Secret key for sessions
 
 # Predefined login users
-USERS = {"JOY", "WILL", "STAN", "CYRIL", "MIKE", "BRAYO", "MARIA", "AGNES"}
+USERS = {"JOY", "WILL", "STANLY", "CYRIL", "MIKE", "BRAYAN", "MARIA", "AGNES"}
 PASSWORD = "RONGAI2025"
 
 # Database connection
